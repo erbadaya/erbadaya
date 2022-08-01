@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **erbadaya/erbadaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello world!
+### Hello world!
 
 I'm Espe, a PhD student in Psycholinguistics at PPLS (University of Edinburgh). In my research, I look at how disfluencies in speech impact L1 and L2 processing with a focus on lexical prediction and pragmatic interpretation. Currently, I'm on a SGSSS Internship to collaborate with Ghent University on a project looking at the processing of the discourse particle 'er' in Dutch.
 
