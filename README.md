@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 ### Hello world!
 
-I'm Espe, a PhD student in Psycholinguistics at PPLS (University of Edinburgh). In my research, I look at how disfluencies in speech impact L1 and L2 processing with a focus on lexical prediction and pragmatic interpretation. Currently, I'm on a SGSSS Internship to collaborate with Ghent University on a project looking at the processing of the discourse particle 'er' in Dutch.
+I'm Espe, a Post-doctoral research assistant at the Department of Experimental Psychology at Ghent University, where I do research while helping with the eye-tracking lab. I am currectly interested in all things related to paralinguistic cues in communication and social cognition (with a focus on interlocutors' linguistic backgrounds). I previously did my PhD in Psycholinguistics at PPLS (University of Edinburgh), where I looked at how disfluencies in speech impact L1 and L2 processing with a focus on lexical prediction and pragmatic interpretation.
 
-I usually work on Python, OpenSesame and R for my research. On the side, I co-organise the Psycholinguistics Coffee with Greta Gandolfi and I teach at PPLS and Usher Institute. At the moment, we are currently organising an event to bring together ECR and PGT working on Psycholinguistics to create a space for all of us to discuss research, and share our experiences and knowledge on building a career in Academia and how to improve our work and how we conduct it (you can check it out [here](https://linkedi2022.github.io/)).
+
 
 
 
